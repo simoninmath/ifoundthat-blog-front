@@ -3,6 +3,7 @@ import { CommonModule } from '@angular/common';
 import { HomeComponent } from './home/home.component';
 import { HomeContainerComponent } from './home-container/home-container.component';
 import { HeroDumbComponent } from './hero-dumb/hero-dumb.component';
+import { BodySmartComponent } from './body-smart/body-smart.component';
 
 
 
@@ -10,7 +11,8 @@ import { HeroDumbComponent } from './hero-dumb/hero-dumb.component';
   declarations: [
     HomeComponent,
     HomeContainerComponent,
-    HeroDumbComponent
+    HeroDumbComponent,
+    BodySmartComponent
   ],
   imports: [
     CommonModule
