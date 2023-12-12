@@ -4,6 +4,8 @@ import { HomeComponent } from './home/home.component';
 import { HomeContainerComponent } from './home-container/home-container.component';
 import { HeroDumbComponent } from './hero-dumb/hero-dumb.component';
 import { BodySmartComponent } from './body-smart/body-smart.component';
+import { NewsSmartComponent } from './body-smart/news-smart/news-smart.component';
+import { NewsletterSmartComponent } from './body-smart/newsletter-smart/newsletter-smart.component';
 
 
 
@@ -12,7 +14,9 @@ import { BodySmartComponent } from './body-smart/body-smart.component';
     HomeComponent,
     HomeContainerComponent,
     HeroDumbComponent,
-    BodySmartComponent
+    BodySmartComponent,
+    NewsSmartComponent,
+    NewsletterSmartComponent
   ],
   imports: [
     CommonModule
