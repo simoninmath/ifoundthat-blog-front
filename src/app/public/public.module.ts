@@ -8,6 +8,7 @@ import { AboutModule } from './about/about.module';
 import { FooterModule } from './footer/footer.module';
 import { LoginModule } from './login/login.module';
 import { RegisterModule } from './register/register.module';
+import { FormModule } from './form/form.module';
 
 const publicRoutes: Routes = [
   { path: 'public' }
@@ -23,7 +24,8 @@ const publicRoutes: Routes = [
     AboutModule,
     FooterModule,
     LoginModule,
-    RegisterModule
+    RegisterModule,
+    FormModule
   ]
 })
 export class PublicModule { }
