@@ -9,13 +9,16 @@ import { FooterModule } from './footer/footer.module';
 import { LoginModule } from './login/login.module';
 import { RegisterModule } from './register/register.module';
 import { FormModule } from './form/form.module';
+import { ArrowBtnComponent } from './arrow-btn/arrow-btn.component';
 
 const publicRoutes: Routes = [
   { path: 'public' }
 ];
 
 @NgModule({
-  declarations: [],
+  declarations: [
+    ArrowBtnComponent
+  ],
   imports: [
     CommonModule,
     HomeModule,
