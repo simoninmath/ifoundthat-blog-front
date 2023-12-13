@@ -1,6 +1,6 @@
 # Ifoundthat Blog
 
-![Screenshot1]()
+![Screenshot1](Capture d’écran 2023-12-10 à 22.23.34.png)
 ![Screenshot2]()
 
 ## Project
