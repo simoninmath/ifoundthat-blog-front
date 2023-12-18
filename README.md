@@ -1,6 +1,6 @@
 # Ifoundthat Blog
 
-![Thumbnail](blog-thumbnail.jpg)
+![Thumbnail](src/assets/img/blog-thumbnail.jpg)
 ![Screenshot1](Screenshot1.png)
 ![Screenshot2](Screenshot2.png)
 ![Screenshot2](Screenshot3.png)
