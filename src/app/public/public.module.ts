@@ -6,7 +6,7 @@ import { NavigationModule } from './navigation/navigation.module';
 import { ArticlesModule } from './articles/articles.module';
 import { AboutModule } from './about/about.module';
 import { FooterModule } from './footer/footer.module';
-import { LoginModule } from './login/login.module';
+import { LoginModule } from './login/login.component';
 import { RegisterModule } from './register/register.module';
 import { FormModule } from './form/form.module';
 import { ArrowBtnComponent } from './arrow-btn/arrow-btn.component';
